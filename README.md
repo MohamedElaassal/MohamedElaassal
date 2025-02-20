@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed El aassal</h1>
 <h3 align="center">software engineer student, and a passionate individual with a keen interest in DevOps and web development from Morocco.</h3>
 
-
 - 📫 How to reach me **mohamedelaassal42@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -16,8 +14,20 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+      width="40" height="40"
+      alt="Tailwind CSS"
+      class="img-fluid"
+    />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40" alt="Bootstrap" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -54,6 +64,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelaassal&show_icons=true&locale=en&layout=compact" alt="mohamedelaassal" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelaassal&show_icons=true&locale=en&layout=compact" alt="mohamedelaassal" /></p>
