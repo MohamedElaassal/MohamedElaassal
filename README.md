@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed El aassal</h1>
-<h3 align="center">software engineer student, and a passionate individual with a keen interest in DevOps and web development from Morocco.</h3>
+<h3 align="center">lifelong learner, software engineer student, and a passionate individual with a keen interest in DevOps and web development from Morocco.</h3>
 
 - 📫 How to reach me **mohamedelaassal42@gmail.com**
 
