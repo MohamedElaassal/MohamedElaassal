@@ -57,20 +57,21 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/Digital-Ocean.svg" alt="DigitalOcean" width="45" height="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" alt="GCP" width="45" height="45"/>
-  <img src="https://icon.icepanel.io/Technology/svg/AWS.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://logo.svgcdn.com/l/github-actions.svg" alt="Github Actions" width="45" height="45"/>
 
 </p>
 
-**DevOps & Development Tools:** Docker, Git, Linux, Postman, DigitalOcean, GCP, AWS
+**DevOps & Development Tools:** Docker, Git, Linux, Postman, DigitalOcean, GCP, Github Actions
 
 ### 🗄️ Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://imgs.search.brave.com/YUVeDdqChQKYFrHaH7b01rrCdjM_TTFQidwY3FFLHZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzM1OTk1Ni5wbmc" alt="Firebase" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
 </p>
 
-**Database Systems:** MySQL, PostgreSQL, Oracle
+**Database Systems:** MySQL, PostgreSQL, Firebase, Oracle
 
 
 
