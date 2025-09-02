@@ -58,13 +58,16 @@
   <img src="https://icon.icepanel.io/Technology/svg/Digital-Ocean.svg" alt="DigitalOcean" width="45" height="45"/>
   <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" alt="GCP" width="45" height="45"/>
   <img src="https://imgs.search.brave.com/PJF5tA58y7zqz-EANRxfd6vXznPaoSmMXXQ0Ni2mPec/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMxLzIvYW1hem9u/LXdlYi1zZXJ2aWNl/cy1hd3MtbG9nby1w/bmdfc2Vla2xvZ28t/MzE5MTg4LnBuZw" alt="GCP" width="45" height="45"/>
+
+  <img src="https://imgs.search.brave.com/UUJ0APV3kNS9UOqNo-Ed9143f59mKjoiycErvB3f89M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL0plbmtpbnMu/c3Zn" alt="k8s" width="45" height="45"/>
+  
   <img src="https://imgs.search.brave.com/mUc65Rlwna1TTN-SiKPIzv1kDD-NHOujKqOyoukY6z4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzM5L0t1YmVybmV0/ZXNfbG9nb193aXRo/b3V0X3dvcmttYXJr/LnN2Zw" alt="k8s" width="45" height="45"/>
   
   <img src="https://logo.svgcdn.com/l/github-actions.svg" alt="Github Actions" width="45" height="45"/>
 
 </p>
 
-**DevOps & Development Tools:** Docker, Git, Linux, Postman, DigitalOcean, GCP, AWS, k8s, Github Actions
+**DevOps & Development Tools:** Docker, Git, Linux, Postman, DigitalOcean, GCP, AWS, Jenkins, k8s, Github Actions
 
 ### 🗄️ Databases
 <p align="left">
