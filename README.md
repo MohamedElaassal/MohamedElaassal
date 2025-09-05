@@ -13,84 +13,6 @@
 💡 **Lifelong Learner** - Always exploring new technologies and methodologies  
 🔧 **DevOps & Web Development Enthusiast** - Building scalable and efficient systems  
 
-📫 **Let's Connect:** [mohamedelaassal42@gmail.com](mailto:mohamedelaassal42@gmail.com)
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="45" height="45"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="Alpine.js" width="45" height="45"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Alpine.js.svg" alt="Livewire" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45" height="45"/>
-  
-</p>
-
-**Frontend Technologies:** HTML5, CSS3, JavaScript, Vue.js, Alpine.js, Livewire, Tailwind CSS, Bootstrap
-
-### ⚡ Backend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://avatars.githubusercontent.com/u/64450473?s=48&v=4" alt="Filament" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
-  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" width="45" height="45"/>
-  
-</p>
-
-**Backend Technologies:** PHP, Laravel, Filament, Livewire, Java, python, Go, C
-
-
-### 🔧 DevOps & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Digital-Ocean.svg" alt="DigitalOcean" width="45" height="45"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" alt="GCP" width="45" height="45"/>
-  <img src="https://imgs.search.brave.com/PJF5tA58y7zqz-EANRxfd6vXznPaoSmMXXQ0Ni2mPec/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMxLzIvYW1hem9u/LXdlYi1zZXJ2aWNl/cy1hd3MtbG9nby1w/bmdfc2Vla2xvZ28t/MzE5MTg4LnBuZw" alt="GCP" width="45" height="45"/>
-
-  <img src="https://imgs.search.brave.com/UUJ0APV3kNS9UOqNo-Ed9143f59mKjoiycErvB3f89M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL0plbmtpbnMu/c3Zn" alt="k8s" width="45" height="45"/>
-  
-  <img src="https://imgs.search.brave.com/mUc65Rlwna1TTN-SiKPIzv1kDD-NHOujKqOyoukY6z4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzM5L0t1YmVybmV0/ZXNfbG9nb193aXRo/b3V0X3dvcmttYXJr/LnN2Zw" alt="k8s" width="45" height="45"/>
-  
-  <img src="https://logo.svgcdn.com/l/github-actions.svg" alt="Github Actions" width="45" height="45"/>
-
-</p>
-
-**DevOps & Development Tools:** Docker, Git, Linux, Postman, DigitalOcean, GCP, AWS, Jenkins, k8s, Github Actions
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://imgs.search.brave.com/YUVeDdqChQKYFrHaH7b01rrCdjM_TTFQidwY3FFLHZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzM1OTk1Ni5wbmc" alt="Firebase" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
-</p>
-
-**Database Systems:** MySQL, PostgreSQL, Firebase, Oracle
-
-
-
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedelaassal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelaassal&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
 
 ---
 
@@ -99,7 +21,7 @@
 - 🔭 Exploring advanced **DevOps practices** and containerization  
 - 🌱 Learning **cloud technologies** and modern deployment strategies  
 - 👯 Looking to collaborate on **open-source projects**  
-- 💬 Ask me about **Laravel, Vue.js, Docker, or anything tech-related!**
+- 💬 Ask me about **Laravel, Vue.js, Docker, K8s or anything tech-related!**
 
 ---
 
