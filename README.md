@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 🎓 **Software Engineering Student** with a passion for creating innovative solutions  
 🔧 **Cloud/DevOps & Web Development Enthusiast** - Building scalable and efficient systems
