@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohamed El aassal
+# Hi there!  I'm Mohamed El aassal
 
 <div align="center">
 
@@ -8,18 +8,18 @@
 
 ## About Me
 
-🎓 **Software Engineering Student** with a passion for creating innovative solutions  
-🔧 **Cloud/DevOps & Web Development Enthusiast** - Building scalable and efficient systems
+ **Software Engineering Student** with a passion for creating innovative solutions  
+ **Cloud/DevOps & Web Development Enthusiast** - Building scalable and efficient systems
 
- 🫀 I love **Linux**, **Docker**, **K8s**, **Go**, **Typescript** and I am interested in **Cloud/DevOps** and **Web/Mobile development**.
- 💬 Ask me about **Laravel, Vue.js, Docker, K8s or anything tech-related!**
+  I love **Linux**, **Docker**, **K8s**, **Go**, **Typescript** and I am interested in **Cloud/DevOps** and **Web/Mobile development**.
+  Ask me about **GCP, Laravel, Vue.js, Docker, K8s or anything tech-related!**
 
 ---
 <div align="center">
 
-### 🤝 Let's Connect and Build Something Amazing Together!
+###  Let's Connect and Build Something Amazing Together!
 
-### 📬 Contact Me
+###  Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelaassal42@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-aassal-910486267/)
