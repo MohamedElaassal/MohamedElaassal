@@ -8,10 +8,10 @@
 
 ## About Me
 
- **Software & AI Engineering Student** with a passion for creating innovative solutions  
+ **Software Engineering Student** with a passion for creating innovative solutions  
  **AI & Cloud/DevOps & Web Development Enthusiast** - Building scalable and efficient systems
 
-  I love **Linux**, **Docker**, **K8s**, **Go**, **Typescript** and **Java** and I am interested in **AI Engineering, Cloud/DevOps** and **Web/Mobile development**.
+  I love **Linux**, **Docker**, **K8s**, **Go**, **Typescript** and **Java** and I am interested in **Software Engineering, Cloud/DevOps** and **System Design**.
   Ask me about **AWS, GCP, Terraform, Spring Boot, Laravel, React.js, Vue.js, Docker, K8s, or anything tech-related!**
 
 ---
