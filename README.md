@@ -12,7 +12,7 @@
  **AI & Cloud/DevOps & Web Development Enthusiast** - Building scalable and efficient systems
 
   I love **Linux**, **Docker**, **K8s**, **Go**, **Typescript** and **Java** and I am interested in **Software Engineering, Cloud/DevOps** and **System Design**.
-  Ask me about **AWS, GCP, Terraform, Spring Boot, Laravel, React.js, Vue.js, Docker, K8s, or anything tech-related!**
+  Ask me about **Git, Linux, Docker, K8s, Spring Boot or anything tech-related!**
 
 ---
 <div align="center">
